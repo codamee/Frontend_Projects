@@ -63,7 +63,7 @@ main {
     color: hsl(0, 0%, 7%);
 }
 .title {
-    font-size: 20px;
+    font-size: 10px;
     font-weight: 800;
 }
 .info {
@@ -91,7 +91,7 @@ main {
     }
     
     .card {
-       width: 375px;
-       gap: 18px;
+       width: 370px;
+       gap: 15px;
     }
 }
