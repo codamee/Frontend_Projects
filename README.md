@@ -12,7 +12,7 @@ Welcome to my collection of frontend challenges! This repository tracks my journ
 * **Tools:** Webpack, ESLint, Git/GitHub
 * **Principles:** Mobile-first Design, Semantic HTML
 
-| Challenge | Preview | Demo |
-| :--- | :---: | :---: |
-| **QR Code Component** | <img src="./01-qr-code/ss.png" width="100"> | [Live](https://...) |
-| **Blog Preview Card** | <img src="./02-blog-card/ss.png" width="100"> | [Live](https://...) |
+| Challenge | Desktop Preview | Mobile Preview | Status |
+| :--- | :---: | :---: | :---: |
+| **01: QR Code Component** | <img src="./01-qr-code-component/design/desktop-preview.jpg" width="250"> | <img src="./01-qr-code-component/design/mobile-design.jpg" width="100"> | [Live Demo](https://codamee.github.io/frontend-mentor-projects/01-qr-code-component/) |
+| **02: Blog Preview Card** | <img src="./02-blog-preview-card/design/desktop-preview.jpg" width="250"> | <img src="./02-blog-preview-card/design/mobile-design.jpg" width="100"> | [Live Demo](https://codamee.github.io/frontend-mentor-projects/02-blog-preview-card/) |
