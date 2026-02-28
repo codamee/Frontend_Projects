@@ -1,16 +1,32 @@
-# Blog Preview Card solution
+# Blog Preview Card 
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+# Frontend Mentor - Blog Preview Card Solution
 
+This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01I_L).
+
+## 📋 Overview
+
+### The Challenge
+This challenge focused on handling typography, spacing (padding/margin), and interactive hover states for a blog-style card.
+
+### Screenshot
+| Desktop | Mobile |
+| :---: | :---: |
+| <img src="assets/images/blog-preview-card-deskop.png" width="400"> | <img src="assets/images/blog-preview-card-mobile.png" width="200"> |
 
 ### Links
+- **Live Site URL:** [View Project](https://codamee.github.io/frontend-mentor-projects/02-blog-preview-card/)
 
- - Live Site URL: [Live Demo](https://codamee.github.io/Frontend_Projects/2_Blog_preview_card/)
+---
 
+## 🏗️ My Process
 
-### Built with
+### Built With
+- **HTML5**
+- **CSS Custom Properties**
+- **CSS Flexbox**
+- **Box Shadows** (Custom offset and blur)
+- **Google Fonts** (Outfit)
 
-- Semantic HTML5 markup
-- CSS
-- Flexbox
-- Mobile-first workflow
+### What I Learned
+I practiced creating a specific "hard shadow" effect to match the neo-brutalist design of the challenge. I also focused on making sure the card scales nicely for mobile users.
