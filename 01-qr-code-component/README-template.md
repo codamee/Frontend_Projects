@@ -1,6 +1,6 @@
 # Frontend Mentor - QR Code Component Solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iEP_aE70Q).
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/project-1-responive-layout-with-html5-and-c-n2BNGprt6v).
 
 ## 📋 Overview
 
