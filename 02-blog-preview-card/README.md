@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Blog Preview Card Solution
 
-This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/project-1-responive-layout-with-html5-and-c-n2BNGprt6v).
+This is my solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-AVeMaTYtXv).
 
 ## 📋 Overview
 
