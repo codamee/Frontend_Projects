@@ -1,4 +1,4 @@
-# Frontend Projects 🚀
+# Frontend Mentor Challenges 🎨
 
 Welcome to my collection of frontend challenges! This repository tracks my journey in building modern, responsive, and clean web interfaces.
 
@@ -12,6 +12,7 @@ Welcome to my collection of frontend challenges! This repository tracks my journ
 * **Tools:** Webpack, ESLint, Git/GitHub
 * **Principles:** Mobile-first Design, Semantic HTML
 
-## 📂 Project Index
-1. **Qr_code_component**: A simple QR code card focusing on layout basics.
-2. **Blog_preview_card**: A responsive card design utilizing custom fonts.
+| Challenge | Preview | Demo |
+| :--- | :---: | :---: |
+| **QR Code Component** | <img src="./01-qr-code/ss.png" width="100"> | [Live](https://...) |
+| **Blog Preview Card** | <img src="./02-blog-card/ss.png" width="100"> | [Live](https://...) |
